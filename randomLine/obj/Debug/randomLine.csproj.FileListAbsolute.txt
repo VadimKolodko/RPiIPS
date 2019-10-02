@@ -1,0 +1,7 @@
+D:\учеба\RPiIPS\randomLine\randomLine\obj\Debug\randomLine.csprojAssemblyReference.cache
+D:\учеба\RPiIPS\randomLine\randomLine\obj\Debug\randomLine.csproj.CoreCompileInputs.cache
+D:\учеба\RPiIPS\randomLine\randomLine\bin\Debug\randomLine.exe.config
+D:\учеба\RPiIPS\randomLine\randomLine\bin\Debug\randomLine.exe
+D:\учеба\RPiIPS\randomLine\randomLine\bin\Debug\randomLine.pdb
+D:\учеба\RPiIPS\randomLine\randomLine\obj\Debug\randomLine.exe
+D:\учеба\RPiIPS\randomLine\randomLine\obj\Debug\randomLine.pdb
